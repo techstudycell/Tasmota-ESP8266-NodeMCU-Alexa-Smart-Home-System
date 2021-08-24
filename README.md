@@ -71,7 +71,7 @@ Please refer to the circuit diagram to connect the pushbuttons or switches.
 # Design the PCB for This Smart Home System
 To make the circuit compact and give a professional look, I have designed the PCB after testing all the features of the smart relay module.
 
-Download the PCB Gerber File
+Download the PCB Gerber File : https://github.com/techstudycell/Tasmota-ESP8266-NodeMCU-Alexa-Smart-Home-System/tree/main/PCB%20Gerber
 
 # Order the PCB from JLCPCB
 After downloading the Garber file you can easily order the PCB
